@@ -2,7 +2,7 @@
 
 
 ### Comment lancer le projet
-![architectuere](./img.png)
+![alt app](./img.png)
     - taper sur le terminal la commande suivante:
 
 ```bash
