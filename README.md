@@ -2,7 +2,7 @@
 
 
 ### Comment lancer le projet
-![alt app](./img.png)
+![alt](./img.PNG)
     - taper sur le terminal la commande suivante:
 
 ```bash
